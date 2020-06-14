@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jT+4mtihxjqwBXIPIkAGfCMLBmsSY/FHl5u/+0ZJNaAGWfvtZhqzaAwQz9jWdfduuGE8GO3GKXz0wkIy/WvRyA==",
+  "success": true,
+  "projectFilePath": "D:\\Docs\\estudo\\dotnetcore\\ExemploFluentValidation\\ExemploFluentValidation\\ExemploFluentValidation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ric_v\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\ric_v\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

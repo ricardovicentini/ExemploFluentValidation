@@ -1,0 +1,15 @@
+D:\Docs\estudo\dotnetcore\ExemploFluentValidation\ExemploFluentValidation\bin\Debug\netcoreapp3.1\ExemploFluentValidation.exe
+D:\Docs\estudo\dotnetcore\ExemploFluentValidation\ExemploFluentValidation\obj\Debug\netcoreapp3.1\ExemploFluentValidation.csprojAssemblyReference.cache
+D:\Docs\estudo\dotnetcore\ExemploFluentValidation\ExemploFluentValidation\obj\Debug\netcoreapp3.1\ExemploFluentValidation.AssemblyInfoInputs.cache
+D:\Docs\estudo\dotnetcore\ExemploFluentValidation\ExemploFluentValidation\obj\Debug\netcoreapp3.1\ExemploFluentValidation.AssemblyInfo.cs
+D:\Docs\estudo\dotnetcore\ExemploFluentValidation\ExemploFluentValidation\bin\Debug\netcoreapp3.1\ExemploFluentValidation.deps.json
+D:\Docs\estudo\dotnetcore\ExemploFluentValidation\ExemploFluentValidation\bin\Debug\netcoreapp3.1\ExemploFluentValidation.runtimeconfig.json
+D:\Docs\estudo\dotnetcore\ExemploFluentValidation\ExemploFluentValidation\bin\Debug\netcoreapp3.1\ExemploFluentValidation.runtimeconfig.dev.json
+D:\Docs\estudo\dotnetcore\ExemploFluentValidation\ExemploFluentValidation\bin\Debug\netcoreapp3.1\ExemploFluentValidation.dll
+D:\Docs\estudo\dotnetcore\ExemploFluentValidation\ExemploFluentValidation\bin\Debug\netcoreapp3.1\ExemploFluentValidation.pdb
+D:\Docs\estudo\dotnetcore\ExemploFluentValidation\ExemploFluentValidation\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\Docs\estudo\dotnetcore\ExemploFluentValidation\ExemploFluentValidation\obj\Debug\netcoreapp3.1\ExemploFluentValidation.csproj.CoreCompileInputs.cache
+D:\Docs\estudo\dotnetcore\ExemploFluentValidation\ExemploFluentValidation\obj\Debug\netcoreapp3.1\ExemploFluentValidation.csproj.CopyComplete
+D:\Docs\estudo\dotnetcore\ExemploFluentValidation\ExemploFluentValidation\obj\Debug\netcoreapp3.1\ExemploFluentValidation.dll
+D:\Docs\estudo\dotnetcore\ExemploFluentValidation\ExemploFluentValidation\obj\Debug\netcoreapp3.1\ExemploFluentValidation.pdb
+D:\Docs\estudo\dotnetcore\ExemploFluentValidation\ExemploFluentValidation\obj\Debug\netcoreapp3.1\ExemploFluentValidation.genruntimeconfig.cache
